@@ -1,8 +1,5 @@
 ---
 title: Endianness
-tags:
-- cs
-- arch
 ---
 
 #cs #arch 

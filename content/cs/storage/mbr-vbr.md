@@ -1,10 +1,9 @@
 ---
 title: MBR & VBR
 description: Master Boot Record and Volume Boot Record
-tags:
-- cs
-- storage
 ---
+
+#cs #storage #boot
 
 ## Volume Boot Record (VBR)
 

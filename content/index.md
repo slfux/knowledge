@@ -1,5 +1,8 @@
 ---
-title: Welcome to Webpage
+title: Hi Hello
 ---
 
-This is my little knowledge base.
+![[falinuwu.jpg]]
+
+This is my little knowledge base. This is where i keep all my goodies.
+    >:)

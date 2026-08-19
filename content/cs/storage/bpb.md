@@ -1,12 +1,9 @@
 ---
 title: BPB
 description: Bios Parameter Block
-tags:
-- cs
-- storage
 ---
 
-#cs #storage
+#cs #storage #boot
 
 ## Synopsis
 

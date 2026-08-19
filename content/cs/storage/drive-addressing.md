@@ -1,9 +1,6 @@
 ---
 title: Drive Addressing
 description: Different Forms of Addressing on Drives
-tags:
-- cs
-- storage
 ---
 
 #cs #storage 

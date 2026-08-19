@@ -1,12 +1,9 @@
 ---
 title: GRX
 description: Specification of the GRX Font Format
-tags:
-- cs
-- format
 ---
 
-#cs #format 
+#cs #format #font #text
 
 # Synopsis
 
